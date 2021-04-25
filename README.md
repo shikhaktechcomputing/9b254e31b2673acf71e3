@@ -21,6 +21,25 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Setup Project
+
+1- 
+git clone https://github.com/shikhaktechcomputing/9b254e31b2673acf71e3.git
+
+2- select project directory
+3- ruby version: 2.6.5 (use rvm command 'rvm use 2.6.5')
+4- bundle install
+5- rails s
+6- open on browser (http://localhost:3000/)
+
+Api Document:
+
+1- open on browser (http://localhost:3000/apipie)
+	Username: admin
+	Password: password
+2- check api document.	
+
+
 
 * Call Api from postman:
 
